@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I am a structural biologist working at the intersection of bacterial defense systems, viral proteins, and structure‑based drug design.
+- - 🌱 I’m currently learning Python and Machine learning
 <!--
 **anmol-adhav/anmol-adhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
