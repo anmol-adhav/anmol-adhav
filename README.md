@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I am a structural biologist working at the intersection of AMR/Antibiotic design, bacterial defense systems, bacteriophage biology and viral proteins.
-- 🌱 I’m currently learning Python and Machine learning
+- 🌱 I’m currently learning Machine learning- Mathematics, RAG, etc.
 <!--
 **anmol-adhav/anmol-adhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
